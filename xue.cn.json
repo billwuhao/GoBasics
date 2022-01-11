@@ -1,0 +1,166 @@
+{
+ "chapters": [
+  {
+   "is_free": true,
+   "path": "01bool.ipynb",
+   "title": "0 布尔值"
+  },
+  {
+   "is_free": true,
+   "path": "02整数.ipynb",
+   "title": "0 整数"
+  },
+  {
+   "is_free": true,
+   "path": "03浮点数和复数.ipynb",
+   "title": "0 浮点数和复数"
+  },
+  {
+   "is_free": true,
+   "path": "04字符.ipynb",
+   "title": "0 字符"
+  },
+  {
+   "is_free": true,
+   "path": "05字符串.ipynb",
+   "title": "0 字符串"
+  },
+  {
+   "is_free": true,
+   "path": "06常量.ipynb",
+   "title": "0 常量"
+  },
+  {
+   "is_free": true,
+   "path": "07注释-标识符-关键字.ipynb",
+   "title": "0 注释，标识符和关键字"
+  },
+  {
+   "is_free": true,
+   "path": "08变量.ipynb",
+   "title": "0 变量"
+  },
+  {
+   "is_free": true,
+   "path": "09数组.ipynb",
+   "title": "0 数组"
+  },
+  {
+   "is_free": true,
+   "path": "10切片.ipynb",
+   "title": "0 切片"
+  },
+  {
+   "is_free": true,
+   "path": "11映射map.ipynb",
+   "title": "0 映射 map"
+  },
+  {
+   "is_free": true,
+   "path": "12指针.ipynb",
+   "title": "0 指针"
+  },
+  {
+   "is_free": true,
+   "path": "13结构.ipynb",
+   "title": "0 结构"
+  },
+  {
+   "is_free": true,
+   "path": "14函数.ipynb",
+   "title": "0 函数"
+  },
+  {
+   "is_free": true,
+   "path": "15方法.ipynb",
+   "title": "0 方法"
+  },
+  {
+   "is_free": true,
+   "path": "16接口.ipynb",
+   "title": "0 接口"
+  },
+  {
+   "is_free": true,
+   "path": "17通道.ipynb",
+   "title": "0 通道"
+  },
+  {
+   "is_free": true,
+   "path": "18类型.ipynb",
+   "title": "0 类型"
+  },
+  {
+   "is_free": true,
+   "path": "19比较操作符.ipynb",
+   "title": "0 比较操作符"
+  },
+  {
+   "is_free": true,
+   "path": "20内建函数.ipynb",
+   "title": "0 内建函数"
+  },
+  {
+   "is_free": true,
+   "path": "21赋值语句.ipynb",
+   "title": "0 赋值语句"
+  },
+  {
+   "is_free": true,
+   "path": "22if语句.ipynb",
+   "title": "0 if 语句"
+  },
+  {
+   "is_free": true,
+   "path": "23for语句.ipynb",
+   "title": "0 for 语句"
+  },
+  {
+   "is_free": true,
+   "path": "24switch语句.ipynb",
+   "title": "0 switch 语句"
+  },
+  {
+   "is_free": true,
+   "path": "25select语句.ipynb",
+   "title": "0 select 语句"
+  },
+  {
+   "is_free": true,
+   "path": "26return语句.ipynb",
+   "title": "0 return 语句"
+  },
+  {
+   "is_free": true,
+   "path": "27break-continue.ipynb",
+   "title": "0 break 和 continue 语句"
+  },
+  {
+   "is_free": true,
+   "path": "28其他语句.ipynb",
+   "title": "0 其他语句"
+  },
+  {
+   "is_free": true,
+   "path": "29包.ipynb",
+   "title": "0 包"
+  }
+ ],
+ "cover": "https://github.com/billwuhao/GoBasics/blob/master/cover_GoBasics.jpg?raw=true",
+ "description": "本书是根据官方文档编辑、整理的 Go 基础知识自测、查询手册。",
+ "license": "本书由 WuMingwen 在 XUE.cn 首发。",
+ "name": "Go 基础知识自测、查询手册",
+ "programming_language": "Go",
+ "category": "用户上传",
+ "authors": [
+  {
+   "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
+   "bio": "https://github.com/billwuhao",
+   "name": "WuMingwen",
+   "role": "origin"
+  }
+ ],
+ "publish_at": "2022-01-11T00:00:00",
+ "toc_level": 2,
+ "version": "0.5"
+}
