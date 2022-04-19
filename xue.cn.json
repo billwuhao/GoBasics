@@ -2,6 +2,11 @@
  "chapters": [
   {
    "is_free": true,
+   "path": "00准备.ipynb",
+   "title": "0 Windows 安装 jupyter 的 go 内核"
+  },
+  {
+   "is_free": true,
    "path": "01bool.ipynb",
    "title": "0 布尔值"
   },
@@ -151,7 +156,7 @@
  "license": "本书由 WuMingwen 在 XUE.cn 首发。",
  "name": "Go 基础知识自测、查询手册",
  "programming_language": "Go",
- "category": "用户上传",
+ "category": "用户上传、Go",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
